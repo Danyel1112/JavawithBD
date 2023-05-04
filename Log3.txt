@@ -1,0 +1,6 @@
+May 04, 2023 9:13:15 AM jdbc.BancoDados endLogger
+INFO: 
+ O programa terminou as operações do banco de dados com sucesso
+May 04, 2023 2:30:11 PM jdbc.BancoDados endLogger
+INFO: 
+ O programa terminou as operações do banco de dados com sucesso

@@ -1,0 +1,4 @@
+May 04, 2023 9:13:14 AM jdbc.BancoDados logger
+INFO: Iniciando a aplicação.
+May 04, 2023 2:30:10 PM jdbc.BancoDados logger
+INFO: Iniciando a aplicação.
